@@ -11,4 +11,4 @@
 - You can check BepInEx/LogOutput.log for load-time messages and troubleshooting.
 
 # Credits
-All credits go to the people who made these mods, I do not claimany rights on any of the artifacts in this package, I have simply gathered them in one place.
+All credits go to the people who made these mods, I do not claim any rights on any of the artifacts in this package, I have simply gathered them in one place.

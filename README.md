@@ -5,7 +5,8 @@
 - You must have BepInEx framework available in your game installation folder. It is a modding framework which is widely used for modding games made using the Unity engine.
 [Here](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/) are the steps on how to use it, follow the manual installation guide.
 
-- When you are done installing BepInEx, drop all of the contents in thie repository into your [game_installation_path (where the game executable exists)]/BepInEx/plugins folder.
+- When you are done installing BepInEx, go to the releases section of this repository, choose and download a version which is a zip/RAR archive.
+- Drop all of the contents in the downloaded archive into your [game_installation_path (where the game executable exists)]/BepInEx/plugins folder.
 - Start the game — BepInEx will auto-detect and load the plugins. If a console opens upon launching the game, then it's working fine.
 - Optional: edit the plugin config under BepInEx/config if the plugin has any config.
 - You can check BepInEx/LogOutput.log for load-time messages and troubleshooting.

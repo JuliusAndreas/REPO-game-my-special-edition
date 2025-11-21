@@ -24,6 +24,26 @@
 				}
 			]
 		
-		}
+		},
+		{
+            "matches": [
+			"*:enemy hunter shoot"
+			],
+            "sounds": [
+                {
+                    "sound": "reverbfart1.mp3"
+                }
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy hunter shoot global"
+			],
+            "sounds": [
+                {
+                    "sound": "reverbfart.mp3"
+                }
+            ]
+        }
 	]
 }

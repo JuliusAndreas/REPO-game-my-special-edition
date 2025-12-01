@@ -6,7 +6,7 @@
 [Here](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/) are the steps on how to install it, follow the manual installation guide.
 
 - When you are done installing BepInEx, go to the [releases](https://github.com/JuliusAndreas/REPO-game-my-special-edition/releases) section of this repository, choose and download a version which is a zip/RAR archive.
-- Drop all of the contents in the downloaded archive into your [game_installation_path (where the game executable exists)]/BepInEx folder. (for versions lower than v3.0.0, drop them here --> [game_installation_path (where the game executable exists)]/BepInEx/plugins
+- Drop all of the contents in the downloaded archive into your ```[game_installation_path (where the game executable exists)]/BepInEx``` folder. (for versions lower than v3.0.0, drop them here --> ```[game_installation_path (where the game executable exists)]/BepInEx/plugins```
 - Start the game — BepInEx will auto-detect and load the plugins. If a console opens upon launching the game, then it's working fine.
 - Optional: edit the plugin config under BepInEx/config if the plugin has any config.
 - You can check BepInEx/LogOutput.log for load-time messages and troubleshooting.

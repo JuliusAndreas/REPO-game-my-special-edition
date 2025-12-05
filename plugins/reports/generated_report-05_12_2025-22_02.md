@@ -1,0 +1,257 @@
+# Generated Report
+At 12/5/2025 10:02:36 PM :3
+
+## General Information
+SoundAPI version: `2.0.8` <br/><br/>
+Audio-clips loaded: `11` <br/>
+Match strings registered: `11` <br/>
+### Loaded sound-packs (`1`)
+- HuntsmanFartHeadmanAllstar
+
+
+## Dynamic Data
+### Registered Conditions (`8`)
+- and<br/>
+- nand<br/>
+- config<br/>
+- counter<br/>
+- mod_installed<br/>
+- not<br/>
+- or<br/>
+- nor
+
+
+## All Played Sounds
+- Match String: Sounds:player tumble can exit:player tumble can exit, Caller: TumbleUI, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon attribute01:ui moon attribute01, Caller: SplashScreen, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro:camera outro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Player Avatar Controller:Grabber Audio:phys grabber loop, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: AUDIO:Truck Loop:menu truck engine loop, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page close:menu page close, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Truck Driving, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Music:Constant Music:msc main menu, Caller: unknown caller, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu hover:menu hover, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu truck slow down:menu truck slow down, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu action:menu action, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page outro:menu page outro, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu confirm:menu confirm, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro run:camera outro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Sounds:extraction point activate02:extraction point activate02, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:extraction point locator ping, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point emoji glitch:extraction point emoji glitch, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Museum Elevator Carriage:Audio Loop Distance:elevator, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Museum Cafe Bar Fridge:Audio Loop Distance:fridge loop, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Museum - P - 3 - Elevator To Sub Floor:Audio Loop Distance:Ambience Loop Arctic Generic Machinery2, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Barrel Fire:Audio Loop Distance:prop loop barrel fire, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Museum - N - 2 - Outside:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Fire:Audio Loop Distance:fire loop, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Museum - P - 3 - Heli crash:Audio Loop Distance:elevator, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Bathroom Sink:Audio Loop Distance:prop bathroom sink drip, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Museum Maint, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Object:AudioSource:Shinghili Nanay.ogg, Caller: PatchBoomboxStart, IsPlayOnAwake: False<br/>
+- Match String: Sounds:valuable gumball close01:valuable gumball close03, Caller: GumballValuable, IsPlayOnAwake: False<br/>
+- Match String: Sounds:valuable gumball close02:valuable gumball close03, Caller: GumballValuable, IsPlayOnAwake: False<br/>
+- Match String: POSES________________________________________:Audio Hand Idle:enemy robe cracking fingers slow, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Drone Close:Drone Close, Caller: PhysGrabCart, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui turn:loading ui turn, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui rev up:loading ui rev up, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:Wood - Slide Loop- Medium, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:valuable cocktail spill03:valuable cocktail spill01, Caller: ValuableCocktail, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Small - Break - Light02:Ceramic Small - Break - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone light02:material impact stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Valuable Museum Cocktail:SemiPuke:enemy slow mouth puke loop, Caller: SemiPuke, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow mouth puke start:enemy slow mouth puke start, Caller: SemiPuke, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow mouth puke end:enemy slow mouth puke end, Caller: SemiPuke, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui crash:loading ui crash, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop Start03:Truck Door - Move - Loop Start03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text level:loading ui text level, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop End02:Truck Door - Move - Loop End02, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Impact - Heavy01:Truck Door - Impact - Heavy01, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text name:loading ui text name, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: POSES________________________________________:Audio Hand Aggressive:enemy robe cracking fingers aggressive, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door message recieved:truck door message recieved, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOn:FlashlightOn, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door type:truck door type, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon show:ui moon show, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn start:ui moon turn start, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn turning:ui moon turn turning, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn end:ui moon turn end, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon hide:ui moon hide, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:largeGroupOfPeople, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light02:Egg - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide stone loop, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Medium02:Egg - Impact - Medium02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light01:Egg - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Medium02:Egg - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light01:Egg - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light03:Egg - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Medium03:Egg - Impact - Medium02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:SingingFloorRice, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise03:enemy robe noise04, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ambience breaker museum05:ambience breaker museum05, Caller: AmbienceBreakers, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise02:enemy robe noise04, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:space, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise03:enemy robe noise01, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light02:Egg - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light03:Egg - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Medium02:Egg - Impact - Medium03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light03:Egg - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise04:enemy robe noise01, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Medium03:Egg - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise01:enemy robe noise03, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise03:enemy robe noise03, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Music:Level Music:Level Music - Museum - 03, Caller: LevelMusic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ambience breaker global02:ambience breaker global02, Caller: AmbienceBreakers, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy01:footstep catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy01:footstep catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 local:extraction point jingle 2 local, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 global:extraction point jingle 2 global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point button press:extraction point button press, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal03:snd_global_footstep_metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal01:snd_global_footstep_metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise:extraction point tube raise, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise global:extraction point tube raise global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui discover:ui discover, Caller: ValuableDiscoverGraphic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling:extraction point tube hit ceiling, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling global:extraction point tube hit ceiling global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate01:extraction point activate01, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Fire:Audio Loop Distance:fire loop, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate03:extraction point activate03, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump03:player jump03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile medium03:footstep tile medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Museum Elevator Carriage:Audio Loop Distance:elevator, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Museum Laser:AudioSource:security laser loop, Caller: MuseumLaserLogic, IsPlayOnAwake: False<br/>
+- Match String: Museum Laser:AudioSource Close:security laser close loop, Caller: MuseumLaserLogic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:security laser power up:security laser power up, Caller: MuseumLaserLogic, IsPlayOnAwake: False<br/>
+- Match String: Module - Museum - N - 2 - Outside:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:phys grabber on01:phys grabber on01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Object:AudioSource:Shinghili Nanay.ogg, Caller: ValuableBoombox, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Museum Laser:AudioSource Hit:enemy beamer laser hit loop, Caller: MuseumLaserLogic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber off01:phys grabber off01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player stand to crouch02:player stand to crouch03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Module - Museum - P - 3 - Heli crash:Audio Loop Distance:elevator, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Light03:Metal hollow Medium - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Heavy03:Metal hollow Medium - Impact - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Heavy01:Metal hollow Medium - Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy01:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Light01:Metal hollow Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Museum Cafe Bar Fridge:Audio Loop Distance:fridge loop, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:player crouch to stand03:player crouch to stand03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Light03:Metal hollow Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium02:footstep wood medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium02:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Light01:Metal hollow Medium - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium05:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:lalalalala, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Music:Enemy Near:Enemy Near 02, Caller: SetupCoroutine, IsPlayOnAwake: False<br/>
+- Match String: Music:Enemy Sighting:scare sighting07, Caller: SetupCoroutine, IsPlayOnAwake: False<br/>
+- Match String: Camera Main:Glitch:msc player do not look at, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short03:camera glitch short01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Light02:Metal hollow Medium - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material_wood rare02:material_wood rare03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Enable:Audio Target Player:enemy robe targeting, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short03:camera glitch short04, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium01:footstep wood medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short02:camera glitch short04, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Light02:Metal hollow Medium - Break - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood light01:material impact wood light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy04:footstep wood heavy06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Medium03:Metal hollow Medium - Impact - Medium02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Heavy03:Metal hollow Medium - Break - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy02:material impact wood heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:generic phys impact01:generic phys impact01, Caller: AssetManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe hurt03:enemy robe hurt03, Caller: EnemyRobe, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe attack_short:enemy robe attack_short, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe attack_short global:enemy robe attack_short global, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy05:footstep wood heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt long02:player hurt long03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long02:camera glitch long03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Heavy03:Metal hollow Medium - Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy01:material impact wood heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy05:footstep wood heavy05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy01:footstep wood heavy04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy05:footstep wood heavy06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Egg - Impact - Light01:Egg - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Heavy03:Metal hollow Medium - Impact - Heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Heavy02:Metal hollow Medium - Break - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy01:material impact wood heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium05:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Impact - Medium02:Metal hollow Medium - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short05:camera glitch short05, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Medium - Break - Light01:Metal hollow Medium - Break - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone light03:material impact stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short04:camera glitch short03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short04:camera glitch short05, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short01:camera glitch short05, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land03:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:security laser power down:security laser power down, Caller: MuseumLaserLogic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short03:camera glitch short03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short02:camera glitch short01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short02:camera glitch short02, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short05:camera glitch short02, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump02:player jump02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile  light03:footstep tile  light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:upgrade extra jump03:upgrade extra jump02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt long02:player hurt long01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long01:camera glitch long05, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land03:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump02:player jump03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump01:player jump03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player death01:player death02, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player death explosion01:player death explosion02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:explosion generic big01:explosion generic big02, Caller: PlayerDeathEffects, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short01:camera glitch short01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break light02:Player - break light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy03:Player - impact heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy robe noise04:enemy robe noise04, Caller: EnemyRobeAnim, IsPlayOnAwake: False<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Manor Default, Caller: EnvironmentDirector, IsPlayOnAwake: False
+
+

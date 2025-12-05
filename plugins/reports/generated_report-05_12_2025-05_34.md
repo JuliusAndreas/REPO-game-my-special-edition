@@ -1,0 +1,231 @@
+# Generated Report
+At 12/5/2025 5:34:36 AM :3
+
+## General Information
+SoundAPI version: `2.0.8` <br/><br/>
+Audio-clips loaded: `9` <br/>
+Match strings registered: `9` <br/>
+### Loaded sound-packs (`1`)
+- HuntsmanFartHeadmanAllstar
+
+
+## Dynamic Data
+### Registered Conditions (`8`)
+- and<br/>
+- nand<br/>
+- config<br/>
+- counter<br/>
+- mod_installed<br/>
+- not<br/>
+- or<br/>
+- nor
+
+
+## All Played Sounds
+- Match String: Sounds:player tumble can exit:player tumble can exit, Caller: TumbleUI, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro:camera outro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: AUDIO:Truck Loop:menu truck engine loop, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page close:menu page close, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Truck Driving, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Music:Constant Music:msc main menu, Caller: unknown caller, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu hover:menu hover, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu action:menu action, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page outro:menu page outro, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu truck slow down:menu truck slow down, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu confirm:menu confirm, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro run:camera outro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Sounds:extraction point activate02:extraction point activate02, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:extraction point locator ping, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point emoji glitch:extraction point emoji glitch, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: (M)DEgarden3:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (H)Ngarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden6:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)EGarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden2:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden8:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (H)Pgarden2:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden3:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Fire_0:Audio Loop Distance:fire loop_0, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden9:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)DEgarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden5:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden7:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (H)Pgarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)Ngarden4:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Ngarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Egarden3:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: (M)DEgarden2:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Head Center & AudioSources:Idle AudioSource:enemy_heart_hugger_idle_loop, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head02:enemy_heart_hugger_move_head02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move03:enemy_heart_hugger_move01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head02:enemy_heart_hugger_move_head03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move02:enemy_heart_hugger_move01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head03:enemy_heart_hugger_move_head01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move03:enemy_heart_hugger_move03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head01:enemy_heart_hugger_move_head03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move03:enemy_heart_hugger_move02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head03:enemy_heart_hugger_move_head02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move01:enemy_heart_hugger_move03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head01:enemy_heart_hugger_move_head02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move01:enemy_heart_hugger_move01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Drone Close:Drone Close, Caller: PhysGrabCart, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui turn:loading ui turn, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide gravel loop, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:Wood - Slide Loop- Medium, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui rev up:loading ui rev up, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide grass, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui crash:loading ui crash, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow02:enemy_heart_hugger_grow03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop Start01:Truck Door - Move - Loop Start03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text level:loading ui text level, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow01:enemy_heart_hugger_grow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop End02:Truck Door - Move - Loop End02, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Impact - Heavy01:Truck Door - Impact - Heavy03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text name:loading ui text name, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow03:enemy_heart_hugger_grow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow02:enemy_heart_hugger_grow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow03:enemy_heart_hugger_grow02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow02:enemy_heart_hugger_grow02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light03:Piano - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Medium03:Piano - Impact - Medium03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Heavy02:Piano - Impact - Heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano -Break - Heavy02:Piano -Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy03:material impact wood heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door message recieved:truck door message recieved, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOn:FlashlightOn, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door type:truck door type, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light02:Piano - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Heavy02:Piano - Impact - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano -Break - Medium03:Piano -Break - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact grass medium03:material impact grass medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move01:enemy_heart_hugger_move02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon show:ui moon show, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move02:enemy_heart_hugger_move02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:footstep catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light01:Piano - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head02:enemy_heart_hugger_move_head01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head01:enemy_heart_hugger_move_head01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon hide:ui moon hide, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:footstep catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move_head03:enemy_heart_hugger_move_head03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light01:Piano - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light01:Piano - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn turning:ui moon turn turning, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_move02:enemy_heart_hugger_move03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light01:footstep catwalk light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:longAnimation, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow03:enemy_heart_hugger_degrow02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light02:Piano - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow01:enemy_heart_hugger_degrow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal02:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 local:extraction point jingle 2 local, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 global:extraction point jingle 2 global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point button press:extraction point button press, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal03:snd_global_footstep_metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise:extraction point tube raise, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise global:extraction point tube raise global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber on01:phys grabber on01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Player Avatar Controller:Grabber Audio:phys grabber loop, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Ngarden1:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:safe open03:safe open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Wizard Door Double:Hinge Audio:safe move loop, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber off01:phys grabber off01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling:extraction point tube hit ceiling, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling global:extraction point tube hit ceiling global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light01:footstep gravel light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel heavy01:footstep gravel heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate01:extraction point activate01, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light03:Piano - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow01:enemy_heart_hugger_degrow02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: (M)DEgarden2:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:safe move end02:safe move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate03:extraction point activate03, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light02:Piano - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Music:Enemy Sighting:scare sighting09, Caller: SetupCoroutine, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open03:wizard door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Wizard Door Double:Hinge Audio:wizard door move loop, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass01_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow01:enemy_heart_hugger_degrow03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow02:enemy_heart_hugger_degrow03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_aggro_start02:enemy_heart_hugger_aggro_start01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Head Center & AudioSources:Aggro AudioSource:enemy_heart_hugger_aggro_loop, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_tell02:enemy_heart_hugger_tell03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_aggro_start03:enemy_heart_hugger_aggro_start01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow01:enemy_heart_hugger_grow03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_grow01:enemy_heart_hugger_grow02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_tell02:enemy_heart_hugger_tell02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_aggro_start01:enemy_heart_hugger_aggro_start03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_tell03:enemy_heart_hugger_tell03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Head Center & AudioSources:Gas AudioSource:enemy_heart_hugger_gas_loop, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_gas_start03:enemy_heart_hugger_gas_start02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player tumble start:player tumble start, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to crawl03:player crouch to crawl03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player stand to crouch03:player stand to crouch02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOff:FlashlightOff, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Head Center & AudioSources:Magical Chime AudioSource:enemy_heart_hugger_magical_chime, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway03:enemy_heart_hugger_popaway03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway03:enemy_heart_hugger_popaway01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway03:enemy_heart_hugger_popaway02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway02:enemy_heart_hugger_popaway03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway01:enemy_heart_hugger_popaway03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway01:enemy_heart_hugger_popaway01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway02:enemy_heart_hugger_popaway01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway02:enemy_heart_hugger_popaway02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_popaway01:enemy_heart_hugger_popaway02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_enchanting_hug02:enemy_heart_hugger_enchanting_hug02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_enchanting_hug01:enemy_heart_hugger_enchanting_hug03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_enchanting_hug01:enemy_heart_hugger_enchanting_hug01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_enchanting_hug03:enemy_heart_hugger_enchanting_hug02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_enchanting_hug03:enemy_heart_hugger_enchanting_hug03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_scare01:enemy_heart_hugger_scare01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_scare_global03:enemy_heart_hugger_scare_global01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long03:camera glitch long01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Music:Scare:scare impact 02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Piano - Impact - Light03:Piano - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_thrust03:enemy_heart_hugger_thrust01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_bite01:enemy_heart_hugger_bite02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_thrust01:enemy_heart_hugger_thrust03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_bite02:enemy_heart_hugger_bite03, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_thrust01:enemy_heart_hugger_thrust02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_bite03:enemy_heart_hugger_bite01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt long03:player hurt long03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long05:camera glitch long03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_thrust03:enemy_heart_hugger_thrust02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_bite03:enemy_heart_hugger_bite02, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow02:enemy_heart_hugger_degrow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass01_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy02:Player - impact heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt short01:player hurt short02, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short04:camera glitch short04, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break heavy03:Player - break heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact grass heavy03:material impact grass heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact small01:Player - impact small01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: PlayerAvatar:OverChargeVisuals:player overcharge loop, Caller: PlayerAvatarOverchargeVisuals, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact small03:Player - impact small03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact medium01:Player - impact medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player tumble stop:player tumble stop, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crawl to crouch03:player crawl to crouch03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to stand01:player crouch to stand02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui discover:ui discover, Caller: ValuableDiscoverGraphic, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:smallFry, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy_heart_hugger_degrow03:enemy_heart_hugger_degrow01, Caller: EnemyHeartHugger, IsPlayOnAwake: False
+
+

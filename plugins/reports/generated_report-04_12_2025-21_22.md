@@ -1,0 +1,476 @@
+# Generated Report
+At 12/4/2025 9:22:25 PM :3
+
+## General Information
+SoundAPI version: `2.0.8` <br/><br/>
+Audio-clips loaded: `5` <br/>
+Match strings registered: `5` <br/>
+### Loaded sound-packs (`1`)
+- HuntsmanFartHeadmanAllstar
+
+
+## Dynamic Data
+### Registered Conditions (`8`)
+- and<br/>
+- nand<br/>
+- config<br/>
+- counter<br/>
+- mod_installed<br/>
+- not<br/>
+- or<br/>
+- nor
+
+
+## All Played Sounds
+- Match String: Sounds:player tumble can exit:player tumble can exit, Caller: TumbleUI, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro:camera outro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: AUDIO:Truck Loop:menu truck engine loop, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page close:menu page close, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Truck Driving, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Music:Constant Music:msc main menu, Caller: unknown caller, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu hover:menu hover, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu action:menu action, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page outro:menu page outro, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu confirm:menu confirm, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro run:camera outro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Sounds:extraction point activate02:extraction point activate02, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:extraction point locator ping, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point emoji glitch:extraction point emoji glitch, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Cauldron:Audio Loop Distance:prop loop cauldron, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - DE - 3 - Sludge Pits:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - E - 3 - Lava Pits:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - P - 3 - Deathpit Stairs:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - E - 3 - Sludge Pits:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - N - 3 - Pits:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - N - 3 - Long Pit:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - P - 2 - Outside 3 bushes:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - N - 3 - Pits 1:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Wizard - N - 2 - Outside Courtyard:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Wizard Default, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy beamer laser hit end:enemy beamer laser hit end, Caller: SemiLaser, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy beamer laser end:enemy beamer laser end, Caller: SemiLaser, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy beamer laser end global:enemy beamer laser end global, Caller: SemiLaser, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Drone Close:Drone Close, Caller: PhysGrabCart, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui turn:loading ui turn, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:valuable star wand sparkle01, Caller: ValuableStarWand, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui rev up:loading ui rev up, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:Wood - Slide Loop- Medium, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:loading ui crash:loading ui crash, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop Start02:Truck Door - Move - Loop Start01, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text level:loading ui text level, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop End01:Truck Door - Move - Loop End02, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Impact - Heavy02:Truck Door - Impact - Heavy01, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text name:loading ui text name, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower jump:enemy valuable thrower jump, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower land:enemy valuable thrower land, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door message recieved:truck door message recieved, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOn:FlashlightOn, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door type:truck door type, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon show:ui moon show, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn start:ui moon turn start, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon hide:ui moon hide, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy06:footstep wood heavy06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn turning:ui moon turn turning, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land03:player land02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:footstep catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - N - 3 - Pits:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:ui moon turn end:ui moon turn end, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 local:extraction point jingle 2 local, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 global:extraction point jingle 2 global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point button press:extraction point button press, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber on01:phys grabber on01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Player Avatar Controller:Grabber Audio:phys grabber loop, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open03:wizard door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Wizard Door Double:Hinge Audio:wizard door move loop, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise:extraction point tube raise, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise global:extraction point tube raise global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break03:wizard door hinge break02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber off01:phys grabber off01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling:extraction point tube hit ceiling, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling global:extraction point tube hit ceiling global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit03:door hit02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate01:extraction point activate01, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - N - 3 - Pits 1:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:door hit03:door hit04, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - DE - 3 - Sludge Pits:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:door hit01:door hit01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Cauldron:Audio Loop Distance:prop loop cauldron, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:extraction point activate03:extraction point activate03, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit04:door hit01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:truck door type, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light03:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit03:door hit03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit02:door hit04, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:footstep rug light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light03:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit01:door hit04, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:footstep rug light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open03:wizard door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit03:door hit01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit02:door hit01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open01:wizard door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light03:footstep rug light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end01:wizard door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door explode02:door explode02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui discover:ui discover, Caller: ValuableDiscoverGraphic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_equip:snd_dirt_tracker_equip, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Map Tool:Controller:snd_dirt_tracker_loop, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_unequip:snd_dirt_tracker_unequip, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open03:wizard door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end02:wizard door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - N - 2 - Outside Courtyard:Audio Loop Distance:Ambience Loop Manor Outside Crickets, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy valuable thrower jump:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump01:player jump02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light06:footstep wood light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end02:wizard door move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open01:wizard door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end03:wizard door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open02:wizard door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land03:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Glass Liquid Big - Impact - Light01:Glass Liquid Big - Impact - Light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide grass, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Glass Liquid Big - Impact - Medium02:Glass Liquid Big - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end01:wizard door move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass02_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass01_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end03:wizard door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Physics - Impacts - Leather Medium - Impact - Medium03:Physics - Impacts - Leather Medium - Impact - Medium02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide stone loop, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass01_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Physics - Impacts - Leather Medium - Impact - Heavy01:Physics - Impacts - Leather Medium - Impact - Heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:untitled - Physics - Impacts - Leather Medium - Break - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone medium03:material impact stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Glass Liquid Big - Impact - Heavy03:Glass Liquid Big - Impact - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Glass Liquid Big - Break - Heavy03:Glass Liquid Big - Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact grass heavy02:material impact grass heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass03_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass01_new:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Glass Liquid Big - Impact - Heavy03:Glass Liquid Big - Impact - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open02:wizard door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break01:wizard door hinge break01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit04:door hit03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit02:door hit03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit02:door hit02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break03:wizard door hinge break01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit heavy03:door hit heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit01:door hit03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light01:footstep gravel light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light01:footstep gravel light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:world01_footstep_grass02_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end01:wizard door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light02:footstep gravel light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light02:footstep gravel light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - N - 3 - Long Pit:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:wizard door open01:wizard door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium02:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber on01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door close01:wizard door close02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player tumble can exit:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium01:footstep wood medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:footstep rug light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower land:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light02:footstep gravel light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:footstep rug light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Wizard - E - 3 - Lava Pits:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy valuable thrower move01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit heavy03:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light01:footstep gravel light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light03:footstep gravel light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit01:door hit02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium05:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:enemy valuable thrower jump, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light05:footstep wood light05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open02:wizard door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end02:wizard door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower land:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood heavy04:footstep wood heavy05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower land, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break01:wizard door hinge break03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end01:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit04:door hit04, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door close heavy02:wizard door close heavy01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower jump, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit04:door hit02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break02:wizard door hinge break01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit heavy02:door hit heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit heavy02:door hit heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn turning:door hit03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:snd_dirt_tracker_equip, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open03:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light01:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light01:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:wizard door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit03:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump03:player jump01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:upgrade extra jump03:upgrade extra jump03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon show:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ambience breaker global02:ambience breaker global02, Caller: AmbienceBreakers, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door open02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:world01_footstep_grass03_new:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:enemy valuable thrower jump, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber on01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door hinge break01:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_unequip:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:untitled - Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower land:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light01:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Wood Hollow Medium - Impact - Heavy02:Wood Hollow Medium - Impact - Heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Wood hollow Medium - Impact - Light01:Wood hollow Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light02:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Wood Hollow Medium - Impact - Light03:Wood hollow Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:material_wood rare01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium04:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light03:footstep gravel light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:footstep gravel light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep gravel light03:footstep gravel light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light02:footstep gravel light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:phys grabber on01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door close03:wizard door close03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium05:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light01:footstep wood light06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end01:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door type:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door close03:wizard door close02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:wizard door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_equip:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:wizard door move end03:untitled - Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:untitled - Flesh Medium - Impact - Light01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move01:footstep stone light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium01:footstep wood medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium06:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:footstep stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:door hit03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Music:Level Music:Level Music - Wizard - 05, Caller: LevelMusic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:footstep rug light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:untitled - Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light03:enemy valuable thrower move01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ambience breaker global14:ambience breaker global14, Caller: AmbienceBreakers, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Drone Close:footstep stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light01:world01_footstep_grass01_new, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light02:footstep rug light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long01:wizard door close02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:Flesh Medium - Impact - Light02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:enemy valuable thrower move long02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone light02:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower notice:enemy valuable thrower notice, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:Flesh Medium - Impact - Light03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep rug light02:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move02:enemy valuable thrower move long01, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:enemy valuable thrower move03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move03:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:door hit04, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium05:footstep wood medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep wood medium06, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:enemy valuable thrower move02, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:untitled - Flesh Medium - Impact - Light03:enemy valuable thrower move long03, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Medium - Impact - Medium01:Ceramic Medium - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower move long03:Ceramic Medium - Impact - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood medium01:footstep wood medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower pickup intro:enemy valuable thrower pickup intro, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Medium - Impact - Light02:Ceramic Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Medium - Break - Heavy01:Ceramic Medium - Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy02:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:generic phys impact01:generic phys impact02, Caller: AssetManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy valuable thrower hurt03:enemy valuable thrower hurt02, Caller: EnemyValuableThrower, IsPlayOnAwake: False<br/>
+- Match String: Visuals:Audio Source:enemy valuable thrower stun loop, Caller: EnemyValuableThrowerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Medium - Impact - Heavy03:Ceramic Medium - Impact - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Ceramic Medium - Break - Heavy03:Ceramic Medium - Break - Heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy03:material impact wood heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:generic phys impact02:generic phys impact03, Caller: AssetManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light04:footstep wood light05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Flesh Medium - Impact - Light03:Flesh Medium - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False
+
+

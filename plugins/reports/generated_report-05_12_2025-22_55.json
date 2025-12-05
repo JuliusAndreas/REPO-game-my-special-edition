@@ -1,0 +1,2799 @@
+{
+  "StartedAt": "2025-12-05T22:55:08.0013129+03:30",
+  "PlayedSounds": [
+    {
+      "MatchString": "Sounds:player tumble can exit:player tumble can exit",
+      "Caller": "TumbleUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "*:Game Director:camera intro",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon attribute01:ui moon attribute01",
+      "Caller": "SplashScreen",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:camera outro:camera outro",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "AUDIO:Truck Loop:menu truck engine loop",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu page close:menu page close",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Audio Manager:Ambience Loop:Ambience Loop Truck Driving",
+      "Caller": "EnvironmentDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Music:Constant Music:msc main menu",
+      "Caller": "unknown caller",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu hover:menu hover",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu action:menu action",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu page outro:menu page outro",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu confirm:menu confirm",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:camera outro run:camera outro run",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Truck Run:Audio Loop Distance:prop truck",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:extraction point activate02:extraction point activate02",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point locator ping:extraction point locator ping",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point emoji glitch:extraction point emoji glitch",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - E - 2 - Outside Tunnel:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Lab Vat:Audio Loop Distance:prop loop lab vat",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Kitchen Fridge:Audio Loop Distance:fridge loop",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Storage Sideroom:Audio Loop Distance:Sewer Loop A",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Water Facility",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 2 - Snow Dump:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "---- Dependencies ----:Audio Loop Distance:Sewer Loop A",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - E - 3 - Pools:Audio Loop Distance:Ambience Loop Arctic Water Facility",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Cooling Center:Audio Loop Distance:prop loop slime",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 2 - Triple Portapotty:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 1 - Slush Cargo:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - DE - 3 - Outside Overlook 2:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Audio Manager:Ambience Loop:Ambience Loop Arctic Default",
+      "Caller": "EnvironmentDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Drone Close:Drone Close",
+      "Caller": "PhysGrabCart",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui turn:loading ui turn",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Truck Run:Audio Loop Distance:prop truck",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:loading ui rev up:loading ui rev up",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:Rug - Slide Loop- Medium",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:material slide stone loop",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui crash:loading ui crash",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Move - Loop Start01:Truck Door - Move - Loop Start01",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long03:enemy floater move long02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long02:enemy floater move long03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui text level:loading ui text level",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long01:enemy floater move long01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Move - Loop End02:Truck Door - Move - Loop End01",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Impact - Heavy03:Truck Door - Impact - Heavy02",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui text name:loading ui text name",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long03:enemy floater move long03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long01:enemy floater move long03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "*:Game Director:camera intro run",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:truck door message recieved:truck door message recieved",
+      "Caller": "TruckScreenText",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:FlashlightOn:FlashlightOn",
+      "Caller": "FlashlightController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:truck door type:truck door type",
+      "Caller": "TruckScreenText",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon show:ui moon show",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood medium01:footstep wood medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:phys grabber on01:phys grabber on01",
+      "Caller": "PhysGrabber",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Player Avatar Controller:Grabber Audio:phys grabber loop",
+      "Caller": "PhysGrabber",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Light01:Gun Small - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Light02:Gun Small - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood medium05:footstep wood medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn start:ui moon turn start",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Medium03:Gun Small - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui inventory equip:ui inventory equip",
+      "Caller": "ItemEquippable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:phys grabber off01:phys grabber off01",
+      "Caller": "PhysGrabber",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood medium02:footstep wood medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy01:Gun Small - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn turning:ui moon turn turning",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy03:Gun Small - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Light02:Gun Small - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood medium02:footstep wood medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn end:ui moon turn end",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium02:footstep catwalk medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon title:ui moon title",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon hide:ui moon hide",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy03:footstep catwalk heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy02:footstep catwalk heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal03:snd_global_footstep_metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 2 - Triple Portapotty:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:extraction point jingle 2 local:extraction point jingle 2 local",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point jingle 2 global:extraction point jingle 2 global",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point button press:extraction point button press",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land01:player land01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium04:footstep stone medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open03:arctic door open03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Arctic Door:Hinge Audio:arctic door move loop",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point tube raise:extraction point tube raise",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point tube raise global:extraction point tube raise global",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal03:footstep wet metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point tube hit ceiling:extraction point tube hit ceiling",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point tube hit ceiling global:extraction point tube hit ceiling global",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal02:footstep wet metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end03:arctic door move end01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point activate01:extraction point activate01",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal01:footstep wet metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point activate03:extraction point activate03",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal03:footstep wet metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 1 - Slush Cargo:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal02:footstep wet metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_dirt_tracker_equip:snd_dirt_tracker_equip",
+      "Caller": "MapToolController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Map Tool:Controller:snd_dirt_tracker_loop",
+      "Caller": "MapToolController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_dirt_tracker_unequip:snd_dirt_tracker_unequip",
+      "Caller": "MapToolController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Cooling Center:Audio Loop Distance:prop loop slime",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:arctic door move end03:arctic door move end03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal01:footstep wet metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open01:arctic door open03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal03:footstep wet metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open02:arctic door open02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal02:footstep wet metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end02:arctic door move end02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium05:footstep stone medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium05:footstep stone medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium04:footstep stone medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:footstep stone medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:footstep stone medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:footstep stone medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open02:arctic door open01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium01:footstep stone medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open01:arctic door open02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium05:footstep stone medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end01:arctic door move end02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end03:arctic door move end02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium01:footstep stone medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium04:footstep stone medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium01:footstep stone medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Storage Sideroom:Audio Loop Distance:Sewer Loop A",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium03:footstep stone medium04",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium03:footstep stone medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:footstep stone medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium03:footstep stone medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end02:arctic door move end03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium03:footstep catwalk medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium03:footstep catwalk medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy03:footstep catwalk heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy01:footstep catwalk heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium03:footstep catwalk medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium01:footstep catwalk medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium02:footstep catwalk medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - E - 2 - Outside Tunnel:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium01:footstep catwalk medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Kitchen Fridge:Audio Loop Distance:fridge loop",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy03:footstep catwalk heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood heavy04:footstep wood heavy05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Water Facility",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Arctic - N - 2 - Snow Dump:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium02:footstep catwalk medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium02:footstep tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium01:footstep tile medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium02:footstep tile medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium01:footstep stone medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium01:footstep stone medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Lab Vat:Audio Loop Distance:prop loop lab vat",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:arctic door move end01:arctic door move end03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open02:arctic door open03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end02:arctic door move end01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium03:footstep stone medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium04:footstep stone medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light01:footstep rug light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light01:footstep rug light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light03:footstep rug light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light01:footstep rug light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door close02:arctic door close02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light03:footstep rug light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:sighting16 global:sighting16 global",
+      "Caller": "FlatScreenTV",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:sighting16:sighting16",
+      "Caller": "FlatScreenTV",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light02:footstep rug light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep rug light02:footstep rug light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:footstep stone medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door hinge break02:arctic door hinge break03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy02:Metal hollow Big - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light03:Metal hollow Big - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium01:Metal hollow Big - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium05:footstep stone medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light02:Metal hollow Big - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium01:Metal hollow Big - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy03:Metal hollow Big - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium01:footstep tile medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - DE - 3 - Outside Overlook 2:Audio Loop Distance:Ambience Loop Arctic Outside",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy02:Metal hollow Big - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium02:Metal hollow Big - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui discover:ui discover",
+      "Caller": "ValuableDiscoverGraphic",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light03:Metal hollow Big - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:valuable jackhammer start:valuable jackhammer start",
+      "Caller": "JackhammerValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio Main:valuable jackhammer loop",
+      "Caller": "JackhammerValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio Impact:valuable jackhammer loop hit",
+      "Caller": "JackhammerValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk medium01:footstep catwalk medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light02:Metal hollow Big - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:phys grabber rotate start:phys grabber rotate start",
+      "Caller": "PhysGrabPointRotate",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Phys Grab Point:Rotate:phys grabber rotate loop",
+      "Caller": "PhysGrabPointRotate",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:Wood - Slide Loop- Medium",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium02:Metal hollow Big - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy01:Metal hollow Big - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Medium02:Metal hollow Big - Break - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood medium01:material impact wood medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Heavy03:Metal hollow Big - Break - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy03:material impact wood heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium03:footstep tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy03:Metal hollow Big - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Medium03:Metal hollow Big - Break - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood medium02:material impact wood medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Heavy02:Metal hollow Big - Break - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy03:material impact wood heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium03:footstep tile medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Heavy01:Metal hollow Big - Break - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy02:material impact wood heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Medium03:Metal hollow Big - Break - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood medium03:material impact wood medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light01:Metal hollow Big - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Glass Liquid Medium - Impact - Light03:Glass Liquid Medium - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium01:Metal hollow Big - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium01:footstep tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Glass Liquid Medium - Impact - Light02:Glass Liquid Medium - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light01_2:Flamethrower - Flamethrower - Break - Light02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light02:material impact tile light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Valuable Arctic Flamethrower:SemiZuperFlames:valuable flamethrower loop",
+      "Caller": "SemiZuperFlames",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:valuable flamethrower loop start:valuable flamethrower loop start",
+      "Caller": "SemiZuperFlames",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy01_2:Flamethrower - Flamethrower - Impact - Heavy01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:valuable flamethrower loop end:valuable flamethrower loop end",
+      "Caller": "SemiZuperFlames",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:Tile - Slide Loop- Medium",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Heavy03_2:Flamethrower - Flamethrower - Break - Heavy01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy03:material impact tile heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light01_2:Flamethrower - Flamethrower - Impact - Light01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy02_2:Flamethrower - Flamethrower - Impact - Heavy02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light01_2:Flamethrower - Flamethrower - Break - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light01:material impact tile light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Medium02_2:Flamethrower - Flamethrower - Break - Medium03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile medium02:material impact tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Light01:Metal hollow Big - Break - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light01:material impact tile light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light02_2:Flamethrower - Flamethrower - Impact - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile  light01:footstep tile  light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light03_2:Flamethrower - Flamethrower - Impact - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light02_2:Flamethrower - Flamethrower - Break - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light02:material impact tile light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light03:Metal hollow Big - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light01_2:Flamethrower - Flamethrower - Impact - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium03:Metal hollow Big - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light03_2:Flamethrower - Flamethrower - Impact - Light01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light02:Metal hollow Big - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light03_2:Flamethrower - Flamethrower - Impact - Light02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light02_2:Flamethrower - Flamethrower - Break - Light02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Heavy02_2:Flamethrower - Flamethrower - Break - Heavy02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy02:material impact tile heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium02:footstep tile medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium03:footstep tile medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light03_2:Flamethrower - Flamethrower - Break - Light03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light01:material impact tile light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light01:Metal hollow Big - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Heavy02_2:Flamethrower - Flamethrower - Break - Heavy01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy03:material impact tile heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy03:Metal hollow Big - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy02_2:Flamethrower - Flamethrower - Impact - Heavy01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Medium03_2:Flamethrower - Flamethrower - Break - Medium02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Light01_2:Flamethrower - Flamethrower - Break - Light01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light02:material impact tile light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy03_2:Flamethrower - Flamethrower - Impact - Heavy01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Medium02_2:Flamethrower - Flamethrower - Break - Medium02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile medium03:material impact tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile  light03:footstep tile  light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light02_2:Flamethrower - Flamethrower - Impact - Light01_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Light01_2:Flamethrower - Flamethrower - Impact - Light02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Medium02_2:Flamethrower - Flamethrower - Impact - Medium03_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy01:Metal hollow Big - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy03:material impact tile heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Light01:Metal hollow Big - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Heavy01:Metal hollow Big - Break - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy01:material impact tile heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Light01:Metal hollow Big - Break - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light03:material impact tile light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:truck door type:Metal hollow Big - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy02:Metal hollow Big - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Medium01_2:Flamethrower - Flamethrower - Impact - Medium02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy03_2:Flamethrower - Flamethrower - Impact - Heavy02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium02:valuable flamethrower loop end",
+      "Caller": "SemiZuperFlames",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light03:material impact tile light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Music:Level Music:Level Music - Arctic - 02 #2",
+      "Caller": "LevelMusic",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door move end01:arctic door move end01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile  light03:footstep tile  light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Impact - Heavy01_2:Flamethrower - Flamethrower - Impact - Heavy02_2",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:explosion generic big03:explosion generic big01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:explosion generic small02:explosion generic small01",
+      "Caller": "ParticleScriptExplosion",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:explosion generic small global01:explosion generic small global01",
+      "Caller": "ParticleScriptExplosion",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium03:Metal hollow Big - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium02:Metal hollow Big - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Heavy01:Metal hollow Big - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Light02:Metal hollow Big - Break - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light03:material impact tile light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile  light01:footstep tile  light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land02:player land01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile medium01:material impact tile medium01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep stone medium05:footstep stone medium05",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ambience breaker arctic09:ambience breaker arctic09",
+      "Caller": "AmbienceBreakers",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land03:player land02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile light01:footstep tile medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player jump03:player jump01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk light01:footstep catwalk light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:upgrade extra jump01:upgrade extra jump02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy02:footstep catwalk heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy01:footstep catwalk heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land02:player land02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wood heavy01:footstep wood heavy06",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open03:arctic door open02",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land02:player land03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door open03:arctic door open01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal01:footstep wet metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Music:Enemy Near:Enemy Near 03",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Music:Enemy Sighting:scare sighting05",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "PlayerAvatar:OverChargeVisuals:player overcharge loop",
+      "Caller": "PlayerAvatarOverchargeVisuals",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short02:enemy floater move short01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "[AUDIO]:Audio Source - Stunned - Loop:enemy floater stun loop",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short03:enemy floater move short03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium02:untitled - Flesh Medium - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep tile medium01:footstep wet metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long01:enemy floater move long02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short03:enemy floater move short01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater charge attack start:enemy floater charge attack start",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "[AUDIO]:Audio Source - ChargeAttack - Loop:enemy floater charge attack loop",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:tutorial dummy warning:tutorial dummy warning",
+      "Caller": "OverchargeRoundBarUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player tumble start:player tumble start",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to crawl01:player crouch to crawl03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player stand to crouch01:player stand to crouch02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:FlashlightOff:FlashlightOff",
+      "Caller": "FlashlightController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui inventory unequip:ui inventory unequip",
+      "Caller": "ItemEquippable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot03:item stun gun shoot02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium01:electricity zap medium02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium02:electricity zap medium03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt03:enemy floater hurt01",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light02:Bottle Pack - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy02:untitled - Flesh Medium - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal01:snd_global_footstep_metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Player:Collision Controller:player fall loop",
+      "Caller": "PlayerCollisionController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy02:Player - impact heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - break heavy03:Player - break heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal01:snd_global_footstep_metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt02:enemy floater hurt03",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium03:untitled - Flesh Medium - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact small02:Player - impact small01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy01:untitled - Flesh Medium - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player tumble stop:player tumble stop",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light01:Bottle Pack - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch02:player crawl to crouch01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to stand01:player crouch to stand03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Heavy02:Bottle Pack - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Break - Heavy01:Bottle Pack - Break - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy01:material impact wood heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light03:Bottle Pack - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot01:item stun gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt03:enemy floater hurt02",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Destroy03:Metal hollow Big - Destroy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light02:Bottle Pack - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short02:enemy floater move short03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short02:enemy floater move short02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy02:untitled - Flesh Medium - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal01:snd_global_footstep_metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt01:enemy floater hurt02",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Heavy01:Bottle Pack - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Break - Heavy02:Bottle Pack - Break - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light03:Bottle Pack - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Medium01:Bottle Pack - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long02:enemy floater move long02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Light01:Bottle Pack - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot01:item stun gun shoot02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium03:electricity zap medium03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt01:enemy floater hurt01",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy01:untitled - Flesh Medium - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal02:snd_global_footstep_metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short01:enemy floater move short01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal03:snd_global_footstep_metal02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long03:enemy floater move long01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot02:item shockwave gun shoot02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion02:grenade shockwave explosion01",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global01:grenade shockwave explosion global02",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy02:Gun Small - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short03:enemy floater move short02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy01:material impact wood heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy03:untitled - Flesh Medium - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal02:snd_global_footstep_metal03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio Ring:phone ringtone",
+      "Caller": "PhoneValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio Vibrate:prop loop electrical buzz",
+      "Caller": "PhoneValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Plastic Medium - Impact - Light02:Plastic Medium - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot03:item shockwave gun shoot02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion03:grenade shockwave explosion02",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global03:grenade shockwave explosion global01",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt03:enemy floater hurt03",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy03:untitled - Flesh Medium - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy02:material impact wood heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood light01:material impact wood light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy02:untitled - Flesh Medium - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal02:snd_global_footstep_metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater death:enemy floater death",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Medium01:Enemy Valuable - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot01:item shockwave gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global03:grenade shockwave explosion global03",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy02:Gun Small - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy03:untitled - Flesh Medium - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:snd_global_footstep_metal03:snd_global_footstep_metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt01:enemy floater hurt03",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood light03:material impact wood light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Plastic Medium - Impact - Light02:Plastic Medium - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long02:enemy floater move long01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Plastic Medium - Impact - Light01:Plastic Medium - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot01:item shockwave gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion03:grenade shockwave explosion03",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global03:grenade shockwave explosion global02",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short01:enemy floater move short03",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Light03:Enemy Valuable - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy01:Enemy Valuable - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Flamethrower - Flamethrower - Break - Medium02_2:Enemy Valuable - Destroy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium03:Enemy Valuable - Break - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:generic phys impact02:generic phys impact01",
+      "Caller": "AssetManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy02:Enemy Valuable - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy03:Enemy Valuable - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy02:Enemy Valuable - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy03:Enemy Valuable - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Light01:Enemy Valuable - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy03:Enemy Valuable - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Light02:Enemy Valuable - Impact - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Light02:Enemy Valuable - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy01:Enemy Valuable - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Destroy03:Enemy Valuable - Destroy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium01:Enemy Valuable - Break - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot02:footstep wet metal01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Impact - Heavy03:Bottle Pack - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Bottle Pack - Destroy03:Bottle Pack - Destroy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep snow medium01:footstep snow medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land03:player land03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "---- Dependencies ----:Audio Loop Distance:Sewer Loop A",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot03:item shockwave gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy02:Gun Small - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact stone heavy03:material impact stone heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:arctic door hinge break03:arctic door hinge break01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Break - Heavy02:Metal hollow Big - Break - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt02:enemy floater hurt01",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood light01:material impact wood light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy02:material impact wood heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater hurt02:enemy floater hurt02",
+      "Caller": "EnemyFloater",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk Medium02:material impact catwalk Medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium01:untitled - Flesh Medium - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Heavy01:untitled - Flesh Medium - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk Medium03:material impact catwalk Medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light01:untitled - Flesh Medium - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe open02:safe open03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe open01:safe open01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe close03:safe close01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe close01:safe close03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion01:grenade shockwave explosion01",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global02:grenade shockwave explosion global02",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to crawl01:player crouch to crawl02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player stand to crouch03:player stand to crouch02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact stone heavy01:material impact stone heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot03:item shockwave gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion01:grenade shockwave explosion03",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy01:Gun Small - Impact - Heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy01:Player - impact heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land01:player land03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - break heavy03:Player - break heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy02:material impact tile heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe open03:safe open01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy02:material impact catwalk heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Light02:Gun Small - Impact - Light02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot02:item shockwave gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact small03:Player - impact small01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy01:Player - impact heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - break light03:Player - break light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move short01:enemy floater move short02",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item shockwave gun shoot02:item shockwave gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global01:grenade shockwave explosion global03",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy02:material impact tile heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:generic phys impact01:generic phys impact02",
+      "Caller": "AssetManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy03:Player - impact heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - break medium01:Player - break medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy03:material impact catwalk heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch03:player crawl to crouch03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to stand03:player crouch to stand02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light02:untitled - Flesh Medium - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium03:untitled - Flesh Medium - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy01:Enemy Valuable - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot01:item stun gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium02:electricity zap medium02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium03:electricity zap medium01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy02:material impact catwalk heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy03:material impact catwalk heavy02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk light02:footstep catwalk light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot03:item stun gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium03:electricity zap medium02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Heavy03:Gun Small - Impact - Heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot03:item stun gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium02:untitled - Flesh Medium - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot02:item stun gun shoot01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot02:item stun gun shoot02",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk light01:material impact catwalk light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk light03:footstep catwalk light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep wet metal03:enemy floater move short01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Death Pit Save Effect:Audio Loop Distance:death pit save loop",
+      "Caller": "DeathPitSaveEffect",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to crawl02:player crouch to crawl01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player stand to crouch01:player stand to crouch03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Medium02:Enemy Valuable - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Light03:Gun Small - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Medium02:Gun Small - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Gun Small - Impact - Medium03:Gun Small - Impact - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ambience breaker arctic02:ambience breaker arctic02",
+      "Caller": "AmbienceBreakers",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium02:Enemy Valuable - Break - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:electricity zap medium02:electricity zap medium01",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact small01:Player - impact small03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:item stun gun shoot02:item stun gun shoot03",
+      "Caller": "ItemGun",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood light02:material impact wood light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Destroy01:Enemy Valuable - Destroy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium01:Enemy Valuable - Break - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy02:Player - impact heavy03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy02:material impact catwalk heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch01:player crawl to crouch01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Destroy01:Enemy Valuable - Destroy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk light03:footstep catwalk light03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk Medium02:material impact catwalk Medium03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Light03:untitled - Flesh Medium - Impact - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:generic phys impact01:generic phys impact03",
+      "Caller": "AssetManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player stand to crouch01:player stand to crouch01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:grenade shockwave explosion global02:grenade shockwave explosion global03",
+      "Caller": "ItemShockwave",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Metal hollow Big - Impact - Medium01:enemy floater move short01",
+      "Caller": "EnemyFloaterAnim",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe open01:safe open03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Hinge Template:Hinge Audio:safe move loop",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy03:Player - impact heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood medium01:material impact wood medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch03:player crawl to crouch02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to stand02:player crouch to stand03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium01:untitled - Flesh Medium - Impact - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Heavy02:Enemy Valuable - Impact - Heavy02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Light01:Enemy Valuable - Break - Light03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Destroy02:Enemy Valuable - Destroy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium02:Enemy Valuable - Break - Medium02",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:generic phys impact03:generic phys impact02",
+      "Caller": "AssetManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player land01:player land02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact heavy02:Player - impact heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - break heavy02:Player - break heavy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact tile heavy01:material impact tile heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:safe open02:safe open01",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch01:player crawl to crouch03",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to stand01:player crouch to stand01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Player - impact medium02:Player - impact medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact wood heavy03:safe close03",
+      "Caller": "PhysGrabHinge",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact catwalk heavy03:material impact catwalk heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:untitled - Flesh Medium - Impact - Medium03:untitled - Flesh Medium - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crawl to crouch03:player crawl to crouch01",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:player crouch to stand01:player crouch to stand02",
+      "Caller": "PlayerAvatar",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk light01:footstep catwalk light02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium02:Enemy Valuable - Break - Medium03",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Destroy03:Enemy Valuable - Destroy01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy floater move long03:footstep catwalk medium02",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Impact - Medium01:Enemy Valuable - Impact - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Enemy Valuable - Break - Medium03:Enemy Valuable - Break - Medium01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy01:footstep catwalk heavy03",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:footstep catwalk heavy02:footstep catwalk heavy01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Module - Arctic - E - 3 - Pools:Audio Loop Distance:Ambience Loop Arctic Water Facility",
+      "Caller": "SetupCoroutine",
+      "IsPlayOnAwake": true
+    }
+  ],
+  "SoundPackNames": [
+    "HuntsmanFartHeadmanAllstar"
+  ],
+  "AudioClipsLoaded": 12
+}

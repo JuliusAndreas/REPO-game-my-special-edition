@@ -1,0 +1,364 @@
+{
+  "StartedAt": "2025-12-05T05:13:05.5215417+03:30",
+  "PlayedSounds": [
+    {
+      "MatchString": "Sounds:player tumble can exit:player tumble can exit",
+      "Caller": "TumbleUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "*:Game Director:camera intro",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon attribute01:ui moon attribute01",
+      "Caller": "SplashScreen",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:camera outro:camera outro",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "AUDIO:Truck Loop:menu truck engine loop",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu page close:menu page close",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Audio Manager:Ambience Loop:Ambience Loop Truck Driving",
+      "Caller": "EnvironmentDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Music:Constant Music:msc main menu",
+      "Caller": "unknown caller",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu hover:menu hover",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu action:menu action",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu page outro:menu page outro",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu confirm:menu confirm",
+      "Caller": "MenuManager",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck slow down:menu truck slow down",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck skeleton hit:menu truck skeleton hit",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck body rustle long03:menu truck body rustle long03",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck skeleton hit skull:menu truck skeleton hit skull",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck body rustle short02:menu truck body rustle short02",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck swerve fast01:menu truck swerve fast01",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck swerve fast02:menu truck swerve fast02",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck swerve:menu truck swerve",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck body rustle long01:menu truck body rustle long01",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck speed up:menu truck speed up",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck fire pass:menu truck fire pass",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck fire pass swerve01:menu truck fire pass swerve01",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck fire pass swerve02:menu truck fire pass swerve02",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:menu truck body rustle long02:menu truck body rustle long02",
+      "Caller": "TruckMenuAnimated",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:camera outro run:camera outro run",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Truck Run:Audio Loop Distance:prop truck",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Sounds:extraction point activate02:extraction point activate02",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point locator ping:extraction point locator ping",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:extraction point emoji glitch:extraction point emoji glitch",
+      "Caller": "ExtractionPoint",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Museum Elevator Carriage:Audio Loop Distance:elevator",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Museum Cafe Bar Fridge:Audio Loop Distance:fridge loop",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Barrel Fire:Audio Loop Distance:prop loop barrel fire",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Module - Museum - N - 2 - Outside:Audio Loop Distance:Ambience Loop Manor Outside Crickets",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Fire:Audio Loop Distance:fire loop",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Bathroom Sink:Audio Loop Distance:prop bathroom sink drip",
+      "Caller": "UnityObjectPatch",
+      "IsPlayOnAwake": true
+    },
+    {
+      "MatchString": "Audio Manager:Ambience Loop:Ambience Loop Museum Maint",
+      "Caller": "EnvironmentDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:valuable gumball close02:valuable gumball close02",
+      "Caller": "GumballValuable",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:AudioSource:Shinghili Nanay.ogg",
+      "Caller": "PatchBoomboxStart",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Drone Close:Drone Close",
+      "Caller": "PhysGrabCart",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui turn:loading ui turn",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui rev up:loading ui rev up",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:Rug - Slide Loop- Medium",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:valuable cocktail spill02:valuable cocktail spill01",
+      "Caller": "ValuableCocktail",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Ceramic Small - Break - Light03:Ceramic Small - Break - Light01",
+      "Caller": "PhysGrabObjectImpactDetector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:material impact stone light02:material impact stone light01",
+      "Caller": "Materials",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Valuable Museum Cocktail:SemiPuke:enemy slow mouth puke loop",
+      "Caller": "SemiPuke",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy slow mouth puke start:enemy slow mouth puke start",
+      "Caller": "SemiPuke",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:enemy slow mouth puke end:enemy slow mouth puke end",
+      "Caller": "SemiPuke",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui crash:loading ui crash",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Move - Loop Start01:Truck Door - Move - Loop Start01",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Material Sliding Loop:material slide stone loop",
+      "Caller": "MaterialSlidingLoop",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui text level:loading ui text level",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Move - Loop End01:Truck Door - Move - Loop End02",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:Truck Door - Impact - Heavy03:Truck Door - Impact - Heavy01",
+      "Caller": "TruckDoor",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:loading ui text name:loading ui text name",
+      "Caller": "LoadingUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "*:Game Director:camera intro run",
+      "Caller": "GameDirector",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:truck door message recieved:truck door message recieved",
+      "Caller": "TruckScreenText",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:FlashlightOn:FlashlightOn",
+      "Caller": "FlashlightController",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:truck door type:truck door type",
+      "Caller": "TruckScreenText",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon show:ui moon show",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn start:ui moon turn start",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn turning:ui moon turn turning",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon turn end:ui moon turn end",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon title:ui moon title",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon attribute02:ui moon attribute01",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon attribute01:ui moon attribute02",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio:myButt",
+      "Caller": "Psycho",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Object:Audio:timeFries",
+      "Caller": "Psycho",
+      "IsPlayOnAwake": false
+    },
+    {
+      "MatchString": "Sounds:ui moon hide:ui moon hide",
+      "Caller": "MoonUI",
+      "IsPlayOnAwake": false
+    }
+  ],
+  "SoundPackNames": [
+    "HuntsmanFartHeadmanAllstar"
+  ],
+  "AudioClipsLoaded": 8
+}

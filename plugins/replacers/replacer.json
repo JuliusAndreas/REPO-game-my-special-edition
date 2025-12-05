@@ -27,7 +27,7 @@
 		},
 		{
             "matches": [
-			"*:enemy hunter shoot"
+				"*:enemy hunter shoot"
 			],
             "sounds": [
                 {
@@ -37,11 +37,111 @@
         },
         {
             "matches": [
-			"*:enemy hunter shoot global"
+				"*:enemy hunter shoot global"
 			],
             "sounds": [
                 {
                     "sound": "reverbfart.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy tricycle wheel squeak loop"
+			],
+            "sounds": [
+                {
+                    "sound": "Aroosake Khoshgele Man.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy valuable thrower move long03"
+			],
+            "sounds": [
+                {
+                    "sound": "Baba Man Gorosname (320).mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy valuable thrower move long02"
+			],
+            "sounds": [
+                {
+                    "sound": "Baba Man Gorosname (320).mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy valuable thrower stun loop"
+			],
+            "sounds": [
+                {
+                    "sound": "Baba Man Gorosname (320).mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy slow walker attack buildup vo"
+			],
+            "sounds": [
+                {
+                    "sound": "koooni.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy_heart_hugger_magical_chime"
+			],
+            "sounds": [
+                {
+                    "sound": "Yek Khanda.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy robe targeting"
+			],
+            "sounds": [
+                {
+                    "sound": "wf_plead_01.wav"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy floater stun loop"
+			],
+            "sounds": [
+                {
+                    "sound": "unknown_artist_kelid_asrar.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy bomb thrower - torso heads screaming loop"
+			],
+            "sounds": [
+                {
+                    "sound": "dr_stop_rage.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy bomb thrower - head laughing loop"
+			],
+            "sounds": [
+                {
+                    "sound": "dr_stop_kiss.mp3"
                 }
             ]
         }

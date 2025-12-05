@@ -1,0 +1,400 @@
+# Generated Report
+At 12/5/2025 5:15:24 AM :3
+
+## General Information
+SoundAPI version: `2.0.8` <br/><br/>
+Audio-clips loaded: `8` <br/>
+Match strings registered: `8` <br/>
+### Loaded sound-packs (`1`)
+- HuntsmanFartHeadmanAllstar
+
+
+## Dynamic Data
+### Registered Conditions (`8`)
+- and<br/>
+- nand<br/>
+- config<br/>
+- counter<br/>
+- mod_installed<br/>
+- not<br/>
+- or<br/>
+- nor
+
+
+## All Played Sounds
+- Match String: Sounds:player tumble can exit:player tumble can exit, Caller: TumbleUI, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro:camera outro, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Player Avatar Controller:Grabber Audio:phys grabber loop, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: AUDIO:Truck Loop:menu truck engine loop, Caller: TruckMenuAnimated, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page close:menu page close, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Truck Driving, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Music:Constant Music:msc main menu, Caller: unknown caller, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu hover:menu hover, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu action:menu action, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu page outro:menu page outro, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:menu confirm:menu confirm, Caller: MenuManager, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera outro run:camera outro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Sounds:extraction point activate02:extraction point activate02, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point locator ping:extraction point locator ping, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point emoji glitch:extraction point emoji glitch, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - E - 3 - Outside Ledge:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - DE - 3 - Outside Overlook 2:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - P - 3 - Catwalks Wide:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 2 - Snow Dump:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Lab Vat:Audio Loop Distance:prop loop lab vat, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 3 - Cooling Center:Audio Loop Distance:prop loop slime, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Kitchen Fridge:Audio Loop Distance:fridge loop, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 3 - Storage Sideroom:Audio Loop Distance:Sewer Loop A, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: ---- Dependencies ----:Audio Loop Distance:Sewer Loop A, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 2 - Triple Portapotty:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Water Facility, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - P - 3 - Maintenance:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Not Connected:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - DE - 3 - Outside Overlook 3:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - P - 3 - Maintenance 2:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Module - Arctic - DE - 3 - Outside Overlook:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: UnityObjectPatch, IsPlayOnAwake: True<br/>
+- Match String: Audio Manager:Ambience Loop:Ambience Loop Arctic Default, Caller: EnvironmentDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Drone Close:Drone Close, Caller: PhysGrabCart, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui turn:loading ui turn, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:footstep catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:Rug - Slide Loop- Medium, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui rev up:loading ui rev up, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Material Sliding Loop:material slide stone loop, Caller: MaterialSlidingLoop, IsPlayOnAwake: False<br/>
+- Match String: Truck Run:Audio Loop Distance:prop truck, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:loading ui crash:loading ui crash, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop Start02:Truck Door - Move - Loop Start03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text level:loading ui text level, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Move - Loop End03:Truck Door - Move - Loop End03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Truck Door - Impact - Heavy02:Truck Door - Impact - Heavy03, Caller: TruckDoor, IsPlayOnAwake: False<br/>
+- Match String: Sounds:loading ui text name:loading ui text name, Caller: LoadingUI, IsPlayOnAwake: False<br/>
+- Match String: *:Game Director:camera intro run, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door message recieved:truck door message recieved, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOn:FlashlightOn, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:truck door type:truck door type, Caller: TruckScreenText, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon show:ui moon show, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn start:ui moon turn start, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn turning:ui moon turn turning, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon hide:ui moon hide, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui moon turn end:ui moon turn end, Caller: MoonUI, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy02:footstep catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long01:enemy slow walker move long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long01:enemy slow walker noise long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long03:enemy slow walker move long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long02:enemy slow walker noise long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long02:enemy slow walker move long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long03:enemy slow walker move long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long02:enemy slow walker noise long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long02:enemy slow walker move long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long01:enemy slow walker noise long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long01:enemy slow walker move long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk heavy03:footstep catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long03:enemy slow walker noise long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long02:enemy slow walker move long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long01:enemy slow walker move long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long02:enemy slow walker noise long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long03:enemy slow walker noise long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal02:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:enemy slow walker footstep03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy02:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep01:enemy slow walker footstep02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy01:material impact stone heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:enemy slow walker footstep02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep01:enemy slow walker footstep03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy02:material impact catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep02:enemy slow walker footstep02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal01:snd_global_footstep_metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber on01:phys grabber on01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy01:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep02:enemy slow walker footstep03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy03:material impact catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep02:enemy slow walker footstep01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy02:material impact catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land03:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 local:extraction point jingle 2 local, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point jingle 2 global:extraction point jingle 2 global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point button press:extraction point button press, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open03:arctic door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Arctic Door:Hinge Audio:arctic door move loop, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:phys grabber off01:phys grabber off01, Caller: PhysGrabber, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise:extraction point tube raise, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube raise global:extraction point tube raise global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open03:arctic door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling:extraction point tube hit ceiling, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point tube hit ceiling global:extraction point tube hit ceiling global, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Lab Vat:Audio Loop Distance:prop loop lab vat, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy slow walker move long03:enemy slow walker move long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long03:enemy slow walker noise long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open01:arctic door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate01:extraction point activate01, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep01:enemy slow walker footstep01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open03:arctic door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:enemy slow walker footstep01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy01:material impact catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal03:snd_global_footstep_metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy01:material impact catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy03:material impact catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - P - 3 - Maintenance:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end03:arctic door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:extraction point activate03:extraction point activate03, Caller: ExtractionPoint, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:myButt, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - P - 3 - Maintenance 2:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Object:Audio:information, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land01:player land01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end02:arctic door move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy01:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:material impact stone heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open02:arctic door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal03:snd_global_footstep_metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy01:material impact catwalk heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - DE - 3 - Outside Overlook 3:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end01:arctic door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ui discover:ui discover, Caller: ValuableDiscoverGraphic, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium01:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door hinge break01:arctic door hinge break01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Big - Break - Heavy03:Metal hollow Big - Break - Heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Big - Impact - Light02:Metal hollow Big - Impact - Light03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Big - Impact - Medium01:Metal hollow Big - Impact - Medium02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long01:enemy slow walker noise long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end01:arctic door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal02:snd_global_footstep_metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal01:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_equip:snd_dirt_tracker_equip, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Map Tool:Controller:snd_dirt_tracker_loop, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep catwalk medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium01:footstep catwalk medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_unequip:snd_dirt_tracker_unequip, Caller: MapToolController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy02:material impact stone heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium03:footstep snow medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium04:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy02:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:safe open02:safe open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Hinge Template:Hinge Audio:safe move loop, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy02:material impact catwalk heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium01:footstep snow medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace03:enemy slow walker trailing mace06, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:safe open03:safe open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium05, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:safe move end02:safe move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium02:footstep snow medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal03:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open02:arctic door open02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal01:snd_global_footstep_metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium03:footstep snow medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace05, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:safe close03:safe close01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium03:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium02:footstep snow medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium02:footstep stone medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player jump02:player jump01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light04:footstep wood light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: ---- Dependencies ----:Audio Loop Distance:Sewer Loop A, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:footstep snow medium02:footstep snow medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_global_footstep_metal02:snd_global_footstep_metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy03:material impact catwalk heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium05:footstep stone medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open02:arctic door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end02:arctic door move end01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - N - 2 - Triple Portapotty:Audio Loop Distance:Ambience Loop Arctic Outside, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy01:arctic door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:enemy slow walker footstep01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium03:footstep snow medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end02:arctic door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium02:footstep catwalk medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player stand to crouch01:player stand to crouch03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:FlashlightOff:FlashlightOff, Caller: FlashlightController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light02:footstep catwalk light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace05:enemy slow walker trailing mace01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short01:enemy slow walker move short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short03:enemy slow walker noise short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short01:enemy slow walker move short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short03:enemy slow walker noise short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light03:footstep catwalk light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short02:enemy slow walker move short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short02:enemy slow walker noise short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short03:enemy slow walker move short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short02:enemy slow walker move short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short01:enemy slow walker noise short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light01:footstep catwalk light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light02:footstep catwalk light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light01:footstep catwalk light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace01:enemy slow walker trailing mace04, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:enemy slow walker noise long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end03:arctic door move end03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk light03:footstep catwalk light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium01:footstep snow medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to stand03:player crouch to stand01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep catwalk medium01:footstep catwalk medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short01:enemy slow walker noise short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone heavy03:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short01:enemy slow walker noise short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short02:enemy slow walker noise short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short03:enemy slow walker move short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short03:enemy slow walker move short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long03:footstep catwalk medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - N - 3 - Cooling Center:Audio Loop Distance:prop loop slime, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:footstep tile medium01:footstep tile medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile medium03:footstep tile medium02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long03:footstep snow medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile medium02:footstep tile medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile medium01:footstep tile medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep tile medium03:footstep tile medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal02:footstep wet metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal03:footstep wet metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep snow medium01:footstep snow medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal01:footstep wet metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal01:footstep wet metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal03:footstep wet metal02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:ambience breaker arctic02:ambience breaker arctic02, Caller: AmbienceBreakers, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:goodDetectives, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep02:snd_global_footstep_metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short02:enemy slow walker move short03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone light01:material impact stone light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move short01:enemy slow walker move short01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact stone light01:material impact stone light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open01:arctic door open01, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end01:arctic door move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Distant Mechanical, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:player stand to crouch03:player stand to crouch03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to crawl01:player crouch to crawl03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:enemy slow walker move long02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crawl to crouch02:player crawl to crouch03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to stand01:player crouch to stand03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door close01:arctic door close02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player land02:player land02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door open01:arctic door open03, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Object:Audio:madExit, Caller: Psycho, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal03:footstep wet metal03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wet metal02:footstep wet metal01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - N - 3 - Vents:Audio Loop Distance:Ambience Loop Arctic Water Facility, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy slow walker trailing mace02:footstep snow medium03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Module - Arctic - N - 3 - Storage Sideroom:Audio Loop Distance:Sewer Loop A, Caller: SetupCoroutine, IsPlayOnAwake: True<br/>
+- Match String: Sounds:enemy slow walker trailing mace04:footstep catwalk medium01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long03:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:material impact stone heavy01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short02:enemy slow walker noise short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker move long02:material impact stone heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep stone medium01:footstep stone medium04, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door move end03:arctic door move end02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep02:enemy slow walker noise long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Music:Enemy Near:Enemy Near 01, Caller: SetupCoroutine, IsPlayOnAwake: False<br/>
+- Match String: Music:Enemy Sighting:scare sighting08, Caller: SetupCoroutine, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk light03:material impact catwalk light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker notice vo01:enemy slow walker notice vo01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk light01:material impact catwalk light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise short03:enemy slow walker noise short02, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk light01:material impact catwalk light03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker swing short:enemy slow walker swing short, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack buildup vo:enemy slow walker attack buildup vo, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player stand to crouch03:player stand to crouch01, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker swing long:enemy slow walker swing long, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack implosion hit:enemy slow walker attack implosion hit, Caller: SlowWalkerAttack, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack implosion hit global:enemy slow walker attack implosion hit global, Caller: SlowWalkerAttack, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack implosion buildup:enemy slow walker attack implosion buildup, Caller: SlowWalkerAttack, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player tumble start:player tumble start, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player crouch to crawl03:player crouch to crawl03, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact small02:Player - impact small01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact medium03:Player - impact medium03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy03:Player - impact heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break light03:Player - break light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:footstep wood light01:footstep wood light01, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break heavy01:Player - break heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker trailing mace06:enemy slow walker noise long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack implosion impact:enemy slow walker attack implosion impact, Caller: SlowWalkerAttack, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker attack implosion impact global:enemy slow walker attack implosion impact global, Caller: SlowWalkerAttack, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt short01:player hurt short01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short02:camera glitch short03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Player:Collision Controller:player fall loop, Caller: PlayerCollisionController, IsPlayOnAwake: False<br/>
+- Match String: Sounds:arctic door hinge break03:arctic door hinge break02, Caller: PhysGrabHinge, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker footstep03:enemy slow walker noise long01, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact small02:Player - impact small03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact medium01:Player - impact medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Big - Impact - Light02:Metal hollow Big - Impact - Light01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Metal hollow Big - Impact - Medium01:Metal hollow Big - Impact - Medium01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy02:Player - impact heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt long02:player hurt long02, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long02:camera glitch long03, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break heavy03:Player - break heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk light02:material impact catwalk light02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Ambience Loop:Level Ambience - Arctic Water Facility:Ambience Loop Arctic Water Facility, Caller: unknown caller, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact catwalk heavy01:material impact stone heavy02, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:enemy slow walker noise long02:enemy slow walker move long03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player hurt long01:player hurt long01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch long02:camera glitch long02, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player death01:player death02, Caller: GameDirector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy01:Player - impact heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break heavy02:Player - break heavy03, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player death explosion03:player death explosion02, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:explosion generic big01:explosion generic big03, Caller: PlayerDeathEffects, IsPlayOnAwake: False<br/>
+- Match String: Sounds:player tumble stop:player tumble stop, Caller: PlayerAvatar, IsPlayOnAwake: False<br/>
+- Match String: Sounds:camera glitch short04:camera glitch short01, Caller: CameraGlitch, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break light01:Player - break light02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy03:material impact wood heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy01:Player - impact heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:snd_dirt_tracker_unequip:enemy slow walker footstep03, Caller: EnemySlowWalkerAnim, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - break heavy03:Player - break heavy02, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False<br/>
+- Match String: Sounds:material impact wood heavy01:material impact wood heavy03, Caller: Materials, IsPlayOnAwake: False<br/>
+- Match String: Sounds:Player - impact heavy02:Player - impact heavy01, Caller: PhysGrabObjectImpactDetector, IsPlayOnAwake: False
+
+

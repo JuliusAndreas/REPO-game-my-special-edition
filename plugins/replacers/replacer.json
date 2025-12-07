@@ -144,6 +144,36 @@
                     "sound": "dr_stop_kiss.mp3"
                 }
             ]
+        },
+		{
+            "matches": [
+				"*:enemy beamer laser loop"
+			],
+            "sounds": [
+                {
+                    "sound": "mahfel.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:arena_music_temp"
+			],
+            "sounds": [
+                {
+                    "sound": "Mokhtar - Barkhiz Ke Shor Mahshar.mp3"
+                }
+            ]
+        },
+		{
+            "matches": [
+				"*:enemy shadow idle loop"
+			],
+            "sounds": [
+                {
+                    "sound": "chips.mp3"
+                }
+            ]
         }
 	]
 }
